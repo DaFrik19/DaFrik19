@@ -1,16 +1,14 @@
-## Hi there 👋
+ 
+![banner](./assets/Banner.png)
+------------------------------
+_"-Mamá dijo que hogar es dónde puedes colgar tu sombrero. -Pero no tenemos sombrero, sólo rocas."_
+Klaus Baudelaire
 
-<!--
-**DaFrik19/DaFrik19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Desarrollador Amateur 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudiante 
+-------------------------------
+Soy un entusiasta por la programación, alguien que disfruta su vida, y estudiante de ciberseguridad. 
+
+
