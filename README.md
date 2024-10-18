@@ -9,6 +9,6 @@ Klaus Baudelaire
 
 - Estudiante 
 -------------------------------
-Soy un entusiasta por la programación, alguien que disfruta su vida, y estudiante de ciberseguridad. 
+Soy un entusiasta por la programación, alguien que disfruta su vida, y estudiante. 
 
 
